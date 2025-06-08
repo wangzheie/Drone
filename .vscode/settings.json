@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jetson/ros_libraries_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/usr/local/lib/python3.8/site-packages/"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jetson/ros_libraries_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/usr/local/lib/python3.8/site-packages/"
+    ]
+}
